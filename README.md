@@ -180,3 +180,15 @@
 ⭐ Star this repository if you find this tool valuable!
 
 </div>
+
+keywords:
+  - "fragment bot"
+  - "getgems bot"
+  - "telegram premium"
+  - "telegram stars"
+  - "nft usernames"
+  - "888 numbers"
+  - "auto buyer bot"
+  - "telegram automation"
+  - "nft automation"
+  - "getgems marketplace"
